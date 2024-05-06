@@ -1,1 +1,4 @@
 *.json
+cache_models/*
+cache_models_v2/*
+*.pkl
